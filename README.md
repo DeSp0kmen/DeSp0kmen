@@ -2,7 +2,6 @@
 - 👀 I’m interested in video game and programming
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on Nobody (for the moment)
-- 📫 How to reach me: prototipoigienico@gmail.com
 
 <!---
 DeSp0kmen/DeSp0kmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
